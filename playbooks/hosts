@@ -1,0 +1,3 @@
+[mytest]
+oracleubuntu ansible_user=michael
+ibmubuntu ansible_user=ubuntu
